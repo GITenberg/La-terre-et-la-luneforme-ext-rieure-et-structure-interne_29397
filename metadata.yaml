@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33892'
     url: http://www.gutenberg.org/2009/agents/33892
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29397#La-terre-et-la-luneforme-ext-rieure-et-structure-interne
 gutenberg_bookshelf: FR Sciences et Techniques
 gutenberg_issued: '2009-07-13'
 gutenberg_type: Text
